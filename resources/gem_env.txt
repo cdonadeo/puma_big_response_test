@@ -1,0 +1,39 @@
+RubyGems Environment:
+  - RUBYGEMS VERSION: 2.4.8
+  - RUBY VERSION: 2.2.3 (2016-01-26 patchlevel 0) [java]
+  - INSTALLATION DIRECTORY: /Users/chrisdonadeo/Repos/big_response_test/.gems
+  - RUBY EXECUTABLE: /Users/chrisdonadeo/.rbenv/versions/jruby-9.0.5.0/bin/jruby
+  - EXECUTABLE DIRECTORY: /Users/chrisdonadeo/Repos/big_response_test/.gems/bin
+  - SPEC CACHE DIRECTORY: /Users/chrisdonadeo/.gem/specs
+  - SYSTEM CONFIGURATION DIRECTORY: /Users/chrisdonadeo/.rbenv/versions/jruby-9.0.5.0/etc
+  - RUBYGEMS PLATFORMS:
+    - ruby
+    - universal-java-1.8
+  - GEM PATHS:
+     - /Users/chrisdonadeo/Repos/big_response_test/.gems
+     - /Users/chrisdonadeo/.rbenv/versions/jruby-9.0.5.0/gemsets/global
+     - /Users/chrisdonadeo/.rbenv/versions/jruby-9.0.5.0/lib/ruby/gems/shared
+  - GEM CONFIGURATION:
+     - :update_sources => true
+     - :verbose => true
+     - :backtrace => false
+     - :bulk_threshold => 1000
+     - "install" => "--no-rdoc --no-ri"
+     - "update" => "--no-rdoc --no-ri"
+  - REMOTE SOURCES:
+     - https://rubygems.org/
+  - SHELL PATH:
+     - /Users/chrisdonadeo/.rbenv/versions/jruby-9.0.5.0/bin
+     - /Users/chrisdonadeo/.rbenv/versions/jruby-9.0.5.0/gemsets/global/bin
+     - /Users/chrisdonadeo/Repos/big_response_test/.gems/bin
+     - /usr/local/Cellar/rbenv/1.0.0/libexec
+     - /Users/chrisdonadeo/.rbenv/shims
+     - /Users/chrisdonadeo/bin
+     - /usr/local/go/bin
+     - /usr/local/bin
+     - /usr/local/sbin
+     - /usr/bin
+     - /bin
+     - /usr/sbin
+     - /sbin
+     - /Users/chrisdonadeo/.composer/vendor/bin
